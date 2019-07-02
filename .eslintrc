@@ -1,0 +1,6 @@
+{
+  "extends": ["plugin:zillow/recommended", "plugin:zillow/jest"],
+  "rules": {
+    "zillow/import/no-unresolved": "off"
+  }
+}
